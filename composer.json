@@ -1,5 +1,5 @@
 {
-    "name": "kittyfinder/s3-filepicker",
+    "name": "nealio82/kittyfinder-s3filepicker",
     "description": "A Laravel Nova field.",
     "keywords": [
         "laravel",
