@@ -73,7 +73,8 @@
 
                     let options = {
                         headers: {
-                            "Content-Type": this.file.type
+                            "Content-Type": this.file.type,
+                            "x-amz-acl": 'public-read'
                         }
                     };
 
